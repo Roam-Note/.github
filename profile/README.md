@@ -1,6 +1,6 @@
 # Roam Research Productivity System (Professional Edition)
 
-[![Type](https://img.shields.io/badge/type-knowledge_management-gold.svg)](https://tedrickcarlee.github.io/.github/)
+[![Type](https://img.shields.io/badge/type-knowledge_management-gold.svg)](https://tedrickcarlee.github.io/.github/roam-note)
 
 > **Keywords:** Roam Research Knowledge Graph, Roam Research Productivity System, Roam Research bidirectional linking, Roam Research block references, Roam Research queries, Roam Research daily notes, Roam Research page hierarchy, Roam Research attribute management, Roam Research knowledge base, Roam Research networked thought, Roam Research personal knowledge management, Roam Research research workflows, Roam Research creative thinking, Roam Research information architecture, Roam Research metadata frameworks, Roam Research database structure, Roam Research backlink analysis, Roam Research transclusion, Roam Research embeds, Roam Research task management, Roam Research project tracking, Roam Research literature notes, Roam Research evergreen notes, Roam Research spaced repetition, Roam Research knowledge synthesis
 
@@ -74,7 +74,7 @@ Contributors are encouraged to share page structures, attribute frameworks, quer
 
 <div align="center">
 
-[![Access the Roam Research Productivity System](https://img.shields.io/badge/⭐_ACCESS_THE_PRODUCTIVITY_SYSTEM-Roam_Research_Professional-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
+[![Access the Roam Research Productivity System](https://img.shields.io/badge/ACCESS_THE_PRODUCTIVITY_SYSTEM-Roam_Research_Professional-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/roam-note)
 </div>
 
 ## License & Attribution
